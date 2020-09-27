@@ -12,9 +12,9 @@
         "verium",
         "scrypt"
     ],
-    "homepage": "https://github.com/phiten/node-stratum-pool",
+    "homepage": "https://github.com/mderasse/node-stratum-pool",
     "bugs": {
-        "url": "https://github.com/phiten/node-stratum-pool/issues"
+        "url": "https://github.com/mderasse/node-stratum-pool/issues"
     },
     "license": "GPL-2.0",
     "author": "Matthew Little",
@@ -25,13 +25,13 @@
     "main": "lib/index.js",
     "repository": {
         "type": "git",
-        "url": "https://github.com/phiten/node-stratum-pool.git"
+        "url": "https://github.com/mderasse/node-stratum-pool.git"
     },
     "dependencies": {
         "async": "^2.5.0",
         "base58-native": "^0.1.4",
         "bignum": "0.12.5",
-        "multi-hashing": "git://github.com/phiten/node-multi-hashing.git"
+        "multi-hashing": "git://github.com/mderasse/node-multi-hashing.git"
     },
     "engines": {
         "node": ">=9.5"
